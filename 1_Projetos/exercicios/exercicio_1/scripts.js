@@ -15,5 +15,10 @@ console.log(9 !== 8);
 console.log("boolean");
 
 console.log(4 === 4 && 5 === 5);
+console.log("nickolas" === "nick" || 5 > 6);
 console.log(6 !== 7 || 5 > 8);
 console.log(!(5 > 9));
+
+
+console.log("nickolas" * "nickolas");
+console.log(485 * "nickolas");
