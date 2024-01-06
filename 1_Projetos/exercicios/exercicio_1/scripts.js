@@ -11,3 +11,9 @@ console.log(15 + 20);
 console.log(5 > 3);
 console.log(6 <= 7);
 console.log(9 !== 8);
+
+console.log("boolean");
+
+console.log(4 === 4 && 5 === 5);
+console.log(6 !== 7 || 5 > 8);
+console.log(!(5 > 9));
