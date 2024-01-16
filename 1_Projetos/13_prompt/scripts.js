@@ -15,3 +15,12 @@ alert("Esta é a mensagem!");
 let maior = Math.max(1,4,6,2,6);
 
 console.log(maior);
+
+
+if(idade <= 20){
+    console.log("jovem");
+}else if(idade <= 40){
+    console.log("adulto");
+}else{
+    console.log("idoso");
+}
