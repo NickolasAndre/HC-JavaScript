@@ -12,3 +12,10 @@ while(y <= 20){
     y = y + 1;
     
 }
+
+let b = 0;
+
+do{
+    console.log("b");
+    b = b + 1;
+}while(b < 8);
