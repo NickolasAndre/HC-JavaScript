@@ -1,5 +1,7 @@
-let n = 100;
-
-for(n == 100; n >= 50; n--){
-    console.log(n)
+for(let n = 0; n <= 50; n++){
+    if(n % 2 === 0){
+        console.log(`${n} par`);
+    }else{
+        console.log(`${n} ímpar`);
+    }
 }
