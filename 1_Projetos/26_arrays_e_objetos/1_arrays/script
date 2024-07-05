@@ -1,0 +1,14 @@
+let arr = ["Carro","Moto","Bicicleta","Patins"];
+
+let number = [1,2,3,4,5];
+
+let bool = [true, false];
+
+let misturado = [1,2,3, "Carro","Moto",["Bicicleta","Patins"], true, false];
+
+console.log(arr);
+console.log(number);
+console.log(bool);
+console.log(misturado);
+
+console.log(misturado[5])
