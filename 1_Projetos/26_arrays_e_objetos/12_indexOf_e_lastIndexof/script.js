@@ -4,7 +4,7 @@ console.log(numeros.indexOf(3));
 
 console.log(numeros.lastIndexOf(1))
 
-let nome = ["João","Maria","Jóse","Nico", "João"];
+let nome = ["João","Maria","José","Nico", "João"];
 
 console.log(nome.indexOf("Nico"));
 
