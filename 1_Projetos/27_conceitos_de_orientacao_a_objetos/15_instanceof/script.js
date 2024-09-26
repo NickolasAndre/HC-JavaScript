@@ -24,3 +24,7 @@ let pug = new cachorro(4, "Pug");
 console.log(pug.patas);
 
 pug.latir()
+
+console.log(new cachorro instanceof mamifero);
+
+console.log(coiote instanceof mamifero)
